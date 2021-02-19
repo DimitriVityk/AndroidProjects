@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="multi_notes">Multi Notes</string>
+    <string name="_2020_dimitri_vityk">© 2020, Dimitri Vityk</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="subject">Subject</string>
+    <string name="date_edited">Date edited</string>
+    <string name="note_text">Note text</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+</resources>

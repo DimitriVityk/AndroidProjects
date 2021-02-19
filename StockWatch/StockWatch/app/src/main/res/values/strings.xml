@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StockWatch</string>
+    <string name="add">Add</string>
+    <string name="aapl">AAPL</string>
+    <string name="apple_inc">Apple Inc.</string>
+    <string name="_135_72">135.72</string>
+    <string name="_0_38_0_28">0.38 (0.28%)</string>
+    <string name="data_file">DataFile.json</string>
+</resources>
