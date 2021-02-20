@@ -29,14 +29,15 @@ renewal is not within the scope of this project.
 * Assume the process of resetting the points-to-award value (and the actual act of rewarding the
 employee) are out of scope for this project.
 * Classes were created to represent the user profiles and the reward assignments.
-* Instructor's API was used as the “back end” which holds user and reward data.
-***IMPORTANT***
-When this application runs, it will prompt the user to request an API key. The application will not run without this API key. 
-Use the credentials below to gain access to the rest of the application.
-First Name: Dimitri
-Last Name: Vityk
-Student Email: dvityk@depaul.edu
-StudentID: 1902614
+* Instructor's API was used as the “back end” which holds user and reward data.  
+
+***IMPORTANT***  
+When this application runs, it will prompt the user to request an API key. The application will not run without this API key.   
+Use the credentials below to gain access to the rest of the application.    
+First Name: Dimitri  
+Last Name: Vityk  
+Student Email: dvityk@depaul.edu  
+StudentID: 1902614  
 
 KnowYourGov:
 ------------
