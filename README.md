@@ -1,5 +1,5 @@
 # AndroidProjects
-A collection of my android projects that varies in difficulty. 
+A collection of my android projects
 
 NewsGateway:
 ------------
