@@ -1,5 +1,6 @@
 # AndroidProjects
-A collection of my android projects
+A collection of my android projects.  
+The descriptions below are in reverse-chronological order.
 
 Defense Commander
 ---------------
