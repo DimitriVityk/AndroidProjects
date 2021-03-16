@@ -8,7 +8,6 @@ Defense Commander
 missile attacks
 - Major entities in the app include bases, incoming ballistic missiles, and interceptors.
 - The game increases in difficulty as time passes (i.e., Levels)
-Walking Tours
 - Incoming missiles appear from the top of the screen and head towards the bottom where they will
 detonate, potentially destroying your bases
 - You launch interceptors to destroy the incoming missiles in flight before they hit your bases
