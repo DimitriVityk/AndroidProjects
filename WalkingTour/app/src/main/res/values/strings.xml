@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WalkingTour</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="_135_e_lake_st_chicago_il_60601_usa">135 E Lake St, Chicago, IL 60601, USA</string>
+    <string name="show_addresses">Show Addresses</string>
+    <string name="show_travel_path">Show Travel Path</string>
+    <string name="show_geofences">Show Geofences</string>
+    <string name="show_tour_path">Show Tour Path</string>
+</resources>

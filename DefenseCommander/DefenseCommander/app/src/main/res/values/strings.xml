@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DefenseCommander</string>
+    <string name="_0">0</string>
+    <string name="level_1">Level 1</string>
+    <string name="exit">EXIT</string>
+    <string name="top_players">Top Players</string>
+    <string name="hashtag">#</string>
+    <string name="init">Init</string>
+    <string name="level">Level</string>
+    <string name="score">Score</string>
+    <string name="date_time">Date/Time</string>
+    <string name="initials">INITIALS</string>
+    <string name="you_must_enter_at_least_one_character">You must enter at least one character!</string>
+</resources>
