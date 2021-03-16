@@ -1,6 +1,39 @@
 # AndroidProjects
 A collection of my android projects
 
+Defense Commander
+---------------
+- This app is a game, a modern take on an 80’s era video game where the user defends their bases against
+missile attacks
+- Major entities in the app include bases, incoming ballistic missiles, and interceptors.
+- The game increases in difficulty as time passes (i.e., Levels)
+Walking Tours
+- Incoming missiles appear from the top of the screen and head towards the bottom where they will
+detonate, potentially destroying your bases
+- You launch interceptors to destroy the incoming missiles in flight before they hit your bases
+- Interceptors are launched by a finger-tap
+- When your bases are gone, the game is over
+- A remote database is used to track the top 10 scores among all players
+- Scoring in the top 10 allows the user to enter their initials
+
+Walking Tours
+------------
+- This app is your own personal walking tour guide for an extensive number of Chicago's famous
+architectural "must-see" buildings such as Aqua Tower, Willis Tower, Chicago Theatre, or Rookery Building.
+Use this self-guided walking tour to explore the most famous constructions of the Loop District, Chicago.
+- The Walking Tours app notifies the user of nearby architectural wonders when they are near the building
+location. Tapping on a notification displays information such as a photo of the building, the building name,
+address, and a description of its architectural significance
+- The user’s live location is used to update their map position.
+- The Google Maps Activity makes use of location data provided continuously by a Location Listener to
+determine the user’s current location and to plot their location on the map.
+- The map continuously centers itself on the user’s current location. The current location is shown via an
+icon. Their path on the map is displayed as a solid
+line that marks where they have been.
+- Geofences are loaded from a cloud-based source so they can change and update without requiring app
+updates (http://www.christopherhield.com/data/WalkingTourContent.json). As the user moves, they are
+alerted if they enter the range of any of the Geofences.
+
 NewsGateway:
 ------------
 * This app displays current news articles from a wide variety of news sources covering a range of news
